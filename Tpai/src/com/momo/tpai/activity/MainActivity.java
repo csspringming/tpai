@@ -1,4 +1,7 @@
-package com.momo.tpai;
+package com.momo.tpai.activity;
+
+import com.momo.tpai.R;
+import com.momo.tpai.R.layout;
 
 import android.app.Activity;
 import android.os.Bundle;
